@@ -1,7 +1,5 @@
 # Welcome to Our Binary Trees Project
 
-<img src= "https://blog.holbertonschool.com/wp-content/uploads/2020/04/unnamed-2.png" width= 39% >
-
 # Functions
 
 ``````
@@ -79,7 +77,4 @@ Our code should use the **Betty** style, and it will be checked using:
 [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
 
 # Authors
-[Mateo Arbini](https://www.linkedin.com/in/mateo-arbini-1493691a8/)
-[Juan Manuel Reyes](https://www.linkedin.com/in/juanma-reyess/)
-
-Holberton School Cohort 17
+[Evans Kiprotich](https://www.linkedin.com/in/evanskiprotich/)
